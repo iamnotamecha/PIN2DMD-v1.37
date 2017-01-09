@@ -1,2 +1,2 @@
 # pin2dmd2
-The original PIN2DMD V1.37 project as it seems to have disappeared..
+Just a copy of the original PIN2DMD V1.37 project as it seems to have disappeared..
